@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jahnavi Sai Ganta</h1>
-<h3 align="center">Passionate AI/ML developer with expertise in deep learning, computer vision, and NLP.Focused on innovative AI solutions for healthcare and analytics. Dedicated to advancing AI technology and its real-world applications.</h3>
+<h3 align="center">Passionate AI/ML developer with expertise in deep learning, computer vision, and NLP. Focused on innovative AI solutions for healthcare and analytics. Dedicated to advancing AI technology and its real-world applications.</h3>
 
 - 🔭 I’m currently working on **LLM based Chatbot Projects**
 
